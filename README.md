@@ -1,1 +1,1 @@
-# Unit1-05-HTML-MDL
+[![GitHub's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/<samuelcarlson18>/<REPOSITORY>/actions)# Unit1-05-HTML-MDL
